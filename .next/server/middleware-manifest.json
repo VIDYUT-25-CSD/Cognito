@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/Desktop_hack_ai-career-coach_d7436faf._.js",
+        "server/edge/chunks/74e85_@opentelemetry_api_build_esm_e739add5._.js",
+        "server/edge/chunks/74e85_@clerk_backend_dist_4ec6dfbb._.js",
+        "server/edge/chunks/74e85_@clerk_nextjs_dist_esm_28f8f99c._.js",
+        "server/edge/chunks/74e85_bded649f._.js",
+        "server/edge/chunks/[root-of-the-server]__5ff586f3._.js",
+        "server/edge/chunks/turbopack-Desktop_hack_ai-career-coach_edge-wrapper_f9cdf4b6.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*))(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*)"
+        },
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(api|trpc))(.*)(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/(api|trpc)(.*)"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "m6Pa/1F21qqLwDkW/BKOt3jOnDzuEk4JxXjhJXkcNwE=",
+        "__NEXT_PREVIEW_MODE_ID": "db8ebe1c9ac31d3f8e365d246ce2dee7",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "7f4d11dbd6a46507fed20e165806eaf4cd62a8b28c3ffe4c0935ac2fcbf502db",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "51ed18984ae6419d610094ca9d117264fd7f2b3596c1d3cf72aeda8a945c575a"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}

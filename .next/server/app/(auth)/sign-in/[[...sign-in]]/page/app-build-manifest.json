@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/(auth)/sign-in/[[...sign-in]]/page": [
+      "static/chunks/74e85_next_dist_2398e5ad._.js",
+      "static/chunks/Desktop_hack_ai-career-coach_app_favicon_ico_mjs_0306e146._.js",
+      "static/chunks/[root-of-the-server]__f232bedb._.css",
+      "static/chunks/74e85_@clerk_nextjs_dist_esm_app-router_a363f27a._.js",
+      "static/chunks/74e85_@clerk_shared_dist_2dbeebda._.js",
+      "static/chunks/74e85_swr_dist_89e3b060._.js",
+      "static/chunks/74e85_@clerk_clerk-react_dist_00164eef._.js",
+      "static/chunks/74e85_next_059e93ca._.js",
+      "static/chunks/74e85_7cbd4974._.js",
+      "static/chunks/Desktop_hack_ai-career-coach_bdf31a15._.js",
+      "static/chunks/Desktop_hack_ai-career-coach_app_layout_02de4fe7.js",
+      "static/chunks/74e85_next_dist_client_components_builtin_global-error_37a1ac76.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_34909006._.js",
+      "static/chunks/74e85_next_dist_compiled_react-dom_686c2cb2._.js",
+      "static/chunks/74e85_next_dist_compiled_next-devtools_index_43fca6ef.js",
+      "static/chunks/74e85_next_dist_compiled_e3a2460c._.js",
+      "static/chunks/74e85_next_dist_client_0d501229._.js",
+      "static/chunks/74e85_next_dist_acb63960._.js",
+      "static/chunks/74e85_@swc_helpers_cjs_9d3d7103._.js",
+      "static/chunks/Desktop_hack_ai-career-coach_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_hack_ai-career-coach_e1d2266b._.js"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "node": {
+    "7f1c7dd50a749c23c28491aa2e39897019a6331a08": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "collectKeylessMetadata",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "rsc"
+      },
+      "exportedName": "collectKeylessMetadata",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+    },
+    "7ff774e98177acc089cfd55ed0b208c8db10c84603": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "formatMetadataHeaders",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "rsc"
+      },
+      "exportedName": "formatMetadataHeaders",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js"
+    },
+    "7f08e923dc86402afb70b7905985340877d33219b2": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "createOrReadKeylessAction",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7f427b1f5614bd0b2ab09af6b768290bc2922b5aff": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteKeylessAction",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "deleteKeylessAction",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7f62d3f205a2882a9c48f56ba279753ef417c464f5": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "syncKeylessConfigAction",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "syncKeylessConfigAction",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7fa50264d5ac06da355874aa55b69406290828b0f2": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "detectKeylessEnvDriftAction",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7fb691f8bbc17df89034d6e9e9cd8c5cb73b4192f0": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "invalidateCacheAction",
+      "filename": "Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+    },
+    "00f22c591ecbd0b94d01637e0540b931e557632202": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserOnboardingStatus",
+          "filename": "Desktop/hack/ai-career-coach/actions/user.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "rsc"
+      },
+      "exportedName": "getUserOnboardingStatus",
+      "filename": "Desktop/hack/ai-career-coach/actions/user.js"
+    },
+    "40cb8c63b591033b9915c4a91c935da2a1839a8785": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "Desktop/hack/ai-career-coach/actions/user.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "action-browser"
+      },
+      "exportedName": "updateUser",
+      "filename": "Desktop/hack/ai-career-coach/actions/user.js"
+    },
+    "004c954dee94286e93d1ec032fa4a1d6badbd8abe2": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getIndustryInsights",
+          "filename": "Desktop/hack/ai-career-coach/actions/dashboard.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "rsc"
+      },
+      "exportedName": "getIndustryInsights",
+      "filename": "Desktop/hack/ai-career-coach/actions/dashboard.js"
+    },
+    "7f992b6f7889ab94ff9f3a86eb0d700045ab6baf3d": {
+      "workers": {
+        "app/(main)/onboarding/page": {
+          "moduleId": "[project]/Desktop/hack/ai-career-coach/.next-internal/server/app/(main)/onboarding/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/server/keyless-custom-headers.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/Desktop/hack/ai-career-coach/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/Desktop/hack/ai-career-coach/actions/user.js [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/Desktop/hack/ai-career-coach/actions/dashboard.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "generateAIInsights",
+          "filename": "Desktop/hack/ai-career-coach/actions/dashboard.js"
+        }
+      },
+      "layer": {
+        "app/(main)/onboarding/page": "rsc"
+      },
+      "exportedName": "generateAIInsights",
+      "filename": "Desktop/hack/ai-career-coach/actions/dashboard.js"
+    }
+  },
+  "edge": {}
+}
